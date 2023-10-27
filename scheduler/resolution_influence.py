@@ -41,4 +41,4 @@ for s in [1, 2, 4, 8, 16]:
     image = add_gaussian_noise(image, 0.9)
     images.append(image)
 
-make_image_grid(images, 1, len(images), resize=256).save("/root/sample.jpg")
+make_image_grid(images, 1, len(images), resize=256).save("/root/resolution.jpg")
