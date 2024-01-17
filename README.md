@@ -10,3 +10,6 @@ research for diffusion model
 ![scheduler.jpg](https://vip.helloimg.com/images/2023/10/27/oWDKhc.jpg)
 - [Perception Prioritized Training of Diffusion Models](https://arxiv.org/abs/2204.00227)
 ![reweighting.jpg](https://vip.helloimg.com/images/2023/10/27/oWDrgT.png)
+
+## Application
+[PhilSad/stable-diffusion-outpainting](https://github.com/PhilSad/stable-diffusion-outpainting)
