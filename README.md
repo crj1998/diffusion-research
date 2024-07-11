@@ -31,6 +31,8 @@ research for diffusion model
 - [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042)
 - [SDXL-Lightning: Progressive Adversarial Diffusion Distillation](https://arxiv.org/abs/2402.13929)
 
+## Video Diffusion
+- [EchoMimic](https://github.com/BadToBest/EchoMimic) [too slow]
 
 ## Application
 ### Face
